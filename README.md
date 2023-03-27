@@ -24,10 +24,11 @@ Each sheet was passed through into a DataFrame and had unnecessary columns remov
 
 
 Data Analysis
-•	Discuss the methods used to perform the data analysis.
+
+
 Our main form of analysis was running regressions to get the correlation coefficient, slope, intercept, p-value, r-squared, and std error for different sets of variables to better understand how they interact. Often those findings were paired with a scatter plot with a regression line included but we also included a heat map, a line chart, and a bar chart to assist with visualizing the data. 
 
-•	Discuss the results of the analysis and how they support the conclusion.
+
 For our analysis we singled out a few different variables to attempt to determine if these had an outsized impact on health and fitness levels of a country. We found a small relationship between the Healthy Life Expectancy and AQI per country but our strongest correlation was between Healthy Life Expectancy and World Happiness Score. 
 
 Conclusion
