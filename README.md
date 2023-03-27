@@ -5,6 +5,8 @@ Our analysis found varying factors that do affect overall health and fitness in 
 
 
 Introduction
+
+
 We collected data from multiple sources regarding potential factors that may affect overall health or fitness levels. We are looking at how environmental and financial conditions may impact the health levels of a country’s population and how those conditions may affect the availability and prevalence of gyms and other fitness equipment. We gathered information from the CIA World Factbook, a global analysis of the gym industry, World Happiness Report 2021, and an Air Quality Index with data from over 6,000 cities. 
 
 
@@ -17,6 +19,7 @@ Some areas where we had to compromise in our data were in how we measured air qu
 
 
 Data Exploration and Cleaning
+
 
 When we found the sheets the team individually went over each sheet ensuring that there was a comprehensive list of countries included in the sheet. We then examined the columns to find the pieces of data needed to perform our analysis. Before beginning the data cleaning, we made sure to look over the questions we intended to answer and confirmed that the information we were pulling would provide satisfactory answers.
 
